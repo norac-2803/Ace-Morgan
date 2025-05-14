@@ -125,3 +125,10 @@
   margin: 0 6px;
   font-size: 12px;
 }
+
+.imp-popup iframe,
+.imp-popup video {
+    width: 150px !important;
+    height: 100px !important;
+    max-width: 100%;
+}
