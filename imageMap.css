@@ -142,3 +142,12 @@
   padding: 1em;
   box-sizing: border-box;
 }
+
+.video-walkthrough {
+  width: 100% !important;
+  max-width: 500px !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+  display: block;
+  margin: 0 auto;
+}
