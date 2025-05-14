@@ -143,11 +143,12 @@
   box-sizing: border-box;
 }
 
-.video-walkthrough {
+.video-tom-shop {
   width: 100% !important;
   max-width: 500px !important;
   height: auto !important;
   aspect-ratio: 16 / 9;
   display: block;
   margin: 0 auto;
+  box-sizing: border-box;
 }
